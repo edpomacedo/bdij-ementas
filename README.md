@@ -1,5 +1,7 @@
 # bdij-ementas
 
+![doi:10.5281/zenodo.10329194](https://zenodo.org/badge/DOI/10.5281/zenodo.10329194.svg)
+
 Automação de rotina de publicação de ementas na Base de Dados de Institutos Jurídicos.
 
 ## Estrutura
