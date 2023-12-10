@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ## Uso
 
-1. Selecione uma fonte autência de jurisprudência.
+1. Selecione uma fonte autêntica de jurisprudência.
 2. Crie um subdiretório dentro de `./payload/`.
 3. Crie um `arquivo.txt` segundo as diretrizes abaixo.
 4. A primeira linha do `arquivo.txt` será o título da página, obedecendo a classe processual e a numeração única do CNJ, p.ex. `ApCiv`:`0000000-00.0000.0.00.0000`.
